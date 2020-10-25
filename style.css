@@ -285,13 +285,6 @@ a:hover {
     padding-bottom: 10px;
 }
 
-.row .row-no-gutters .social {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}
-
 #bloc-1-hero h1 {
     font-size: 32px;
 }
@@ -427,7 +420,7 @@ nav .caret {
     color: rgb(87, 87, 87);
 }
 
-.row {
+.row .footer {
     padding-left: 25px;
 }
 
