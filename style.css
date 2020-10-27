@@ -7,6 +7,10 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+a {
+    min-height: 48px;
+}
+
 a,
 button {
     transition: all .3s ease-in-out;
@@ -688,7 +692,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 12px;
 }
 
 .tight-width-whitespace {
